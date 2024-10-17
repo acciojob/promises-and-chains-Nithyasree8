@@ -30,3 +30,4 @@ function validateAge(name, age) {
     }, 4000); // 4 seconds delay
   });
 }
+
